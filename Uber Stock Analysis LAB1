@@ -263,3 +263,4 @@ We see from the above generated box plots that Uber stock prices had no general 
 -   Daily Open, High, Low prices generally follow a normal distribution, as their box plot is symmetric
 
 On the other hand, the Volume box plot suggests an extreme amount of outliers, which can be partially explained by Uber's astronomical rise in popularity and company success during the post-covid period (2023-2025). In this period, the company attracted significantly more investors, - *including both retail and professional investors/formal funds* - exploding trading volume on certain days and weeks, causing extreme outliers.
+
